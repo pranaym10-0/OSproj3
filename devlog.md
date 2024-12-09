@@ -6,7 +6,7 @@ I haven't started developing due to studying for my finals and working on projec
 
 b. What do you plan to accomplish this session? Layout a plan, as detailed as possible. What do you plan to change? 
 What do you plan to implement next? What is your goal for this session?
-I plan to get everything done the best I can in the limited time I have left. I started coding earlier today but forgot I need to make a devlog.
+I plan to get everything done the best I can in the limited time I have left. I started "coding" earlier today but forgot I need to make a devlog. I just had an outline of what I needed to do.
 
 
 10:58
